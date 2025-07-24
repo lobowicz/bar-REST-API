@@ -1,0 +1,1 @@
+[{"alcPercentage":0,"name":"Water","id":"101","fullSipsAmount":4,"price":2,"sipsAmount":4,"isAlc":false},{"isAlc":true,"sipsAmount":9,"price":4,"fullSipsAmount":9,"id":"102","name":"Beer","alcPercentage":5},{"alcPercentage":40,"name":"Vodka","id":"103","fullSipsAmount":1,"price":4,"sipsAmount":1,"isAlc":true}]
